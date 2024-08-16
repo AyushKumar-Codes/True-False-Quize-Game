@@ -29,3 +29,4 @@ Test your knowledge and see if you can score high enough to win the quiz!
 1. Clone the repository:
    ```bash
    git clone https://github.com/AyushKumar-Codes/True-False-Quize-Game.git
+   ```
